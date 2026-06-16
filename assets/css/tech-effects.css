@@ -498,17 +498,18 @@ body.dark-mode ::selection {
 
 /* ===== Page width optimization for readability ===== */
 /* Reduce max-width for better reading experience (60-75 chars per line) */
-#main,
-.masthead__inner-wrap,
-.page__footer footer,
-.wrapper {
-  max-width: 1000px;
+/* Using body qualifier to beat main.css specificity */
+body #main,
+body .masthead__inner-wrap,
+body .page__footer footer,
+body .wrapper {
+  max-width: 1000px !important;
 }
 @media (min-width: 87.5em) {
-  #main,
-  .masthead__inner-wrap,
-  .page__footer footer,
-  .wrapper {
-    max-width: 1100px;
+  body #main,
+  body .masthead__inner-wrap,
+  body .page__footer footer,
+  body .wrapper {
+    max-width: 1100px !important;
   }
 }
