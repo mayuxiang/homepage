@@ -49,10 +49,7 @@ Henan University is located in Kaifeng, a famous historic city which is one of t
 
 Henan University is one of the oldest universities in China. The last two imperial examinations held here in 1903 and 1904 marked the end of the thousand-year-long imperial examination system. 
 
-HENU Website:
-
- * [Chinese](https://www.henu.edu.cn/)
- * [English](https://iao.henu.edu.cn/yw/Home.htm)
+HENU Website: [Henan University](https://iao.henu.edu.cn/yw/Home.htm)
 
 <div class="henu-carousel">
   <div class="henu-carousel-inner">
