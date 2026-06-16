@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "About"
+excerpt: "Dr. Yuxiang MA's personal homepage"
 author_profile: true
 redirect_from: 
   - /about/
