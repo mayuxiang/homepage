@@ -26,7 +26,8 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email_user       : "y.x.ma"
+  email_domain     : "hotmail.com"
   researchgate     :
   uri              :
   github           :
