@@ -484,3 +484,12 @@ body.dark-mode ::selection {
         font-size: 1em;
     }
 }
+
+/* Contact email link — no underline */
+#contact-info-link {
+    text-decoration: none;
+    color: inherit;
+}
+#contact-info-link:hover {
+    text-decoration: none;
+}

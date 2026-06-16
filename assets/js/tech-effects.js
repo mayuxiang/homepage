@@ -291,6 +291,8 @@
             a.href = 'mailto:' + email;
             a.textContent = email;
             a.style.color = 'inherit';
+            a.style.textDecoration = 'none';
+            a.id = 'contact-info-link';
             el.parentNode.replaceChild(a, el);
         }
     } catch(e) {
