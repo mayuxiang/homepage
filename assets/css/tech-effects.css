@@ -486,10 +486,10 @@ body.dark-mode ::selection {
 }
 
 /* Contact email link — no underline */
-#contact-info-link {
-    text-decoration: none;
+.page__content #contact-info-link {
+    text-decoration: none !important;
     color: inherit;
 }
-#contact-info-link:hover {
-    text-decoration: none;
+.page__content #contact-info-link:hover {
+    text-decoration: none !important;
 }
