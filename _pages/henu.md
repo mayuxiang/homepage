@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Henan University (HENU)"
+title: "HENU"
 permalink: /henu/
 author_profile: true
 redirect_from:
