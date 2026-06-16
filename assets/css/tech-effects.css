@@ -485,11 +485,13 @@ body.dark-mode ::selection {
     }
 }
 
-/* Contact email link — no underline */
+/* Contact email link — no underline, accent color */
 .page__content #contact-info-link {
     text-decoration: none !important;
-    color: inherit;
+    color: #00b4d8 !important;
+    font-weight: 500;
 }
 .page__content #contact-info-link:hover {
     text-decoration: none !important;
+    color: #0096c7 !important;
 }
