@@ -39,6 +39,7 @@ author:
 
 # Reading Files
 include:
+  - _headers
   - .htaccess
   - _pages
   - files
